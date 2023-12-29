@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aplicacion-web", "aplicacion-web\aplicacion-web.csproj", "{5A37AF6C-4366-465B-87D5-327B6738E7E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{0D27A4A0-B22E-46F3-9F76-E3EEE428C877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{4FDE3DE8-7D35-4E77-A9B5-98417DD49888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A37AF6C-4366-465B-87D5-327B6738E7E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A37AF6C-4366-465B-87D5-327B6738E7E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A37AF6C-4366-465B-87D5-327B6738E7E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A37AF6C-4366-465B-87D5-327B6738E7E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D27A4A0-B22E-46F3-9F76-E3EEE428C877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D27A4A0-B22E-46F3-9F76-E3EEE428C877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D27A4A0-B22E-46F3-9F76-E3EEE428C877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D27A4A0-B22E-46F3-9F76-E3EEE428C877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FDE3DE8-7D35-4E77-A9B5-98417DD49888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDE3DE8-7D35-4E77-A9B5-98417DD49888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDE3DE8-7D35-4E77-A9B5-98417DD49888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDE3DE8-7D35-4E77-A9B5-98417DD49888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34BDC4C0-83FA-40C0-8DD8-5CAD651222DC}
+	EndGlobalSection
+EndGlobal
